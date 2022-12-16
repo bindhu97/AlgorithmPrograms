@@ -15,8 +15,7 @@ class Program
                 "3) Find the BubbleSort\n" +
                 "4) Find the Insertion Sort\n" +
                 "5) Find the Merge Sorting\n" +
-                "6) Find the Delete Last Element\n" +
-                "7) Find the Display of elements\n");
+                "6) Find the Prime Numbers\n");
 
             int option = Convert.ToInt32(Console.ReadLine());
             int count = 0;
@@ -54,6 +53,11 @@ class Program
                     {
                         Console.Write(arrPass[i] + " ");
                     }
+                    break;
+
+                    case 6:
+                    PrimeNumber prime = new PrimeNumber();
+                    prime.PrimeNumbers();
                     break;
             }
         }
