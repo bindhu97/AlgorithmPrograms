@@ -1,0 +1,15 @@
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\net6.0\AlgorithmPrograms.exe
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\net6.0\AlgorithmPrograms.deps.json
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\net6.0\AlgorithmPrograms.runtimeconfig.json
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\net6.0\AlgorithmPrograms.dll
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\net6.0\AlgorithmPrograms.pdb
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.csproj.AssemblyReference.cache
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.AssemblyInfoInputs.cache
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.AssemblyInfo.cs
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.csproj.CoreCompileInputs.cache
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.dll
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\refint\AlgorithmPrograms.dll
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.pdb
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\AlgorithmPrograms.genruntimeconfig.cache
+C:\Users\91973\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\net6.0\ref\AlgorithmPrograms.dll
