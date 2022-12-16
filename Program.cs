@@ -13,7 +13,7 @@ class Program
                 "1) Find the Anagram Detection\n" +
                 "2) Find the Binary Searching\n" +
                 "3) Find the BubbleSort\n" +
-                "4) Find the Ability to insert between number\n" +
+                "4) Find the Insertion Sort\n" +
                 "5) Find the Delete First Element\n" +
                 "6) Find the Delete Last Element\n" +
                 "7) Find the Display of elements\n");
@@ -38,6 +38,11 @@ class Program
                     case 3:
                     BubbleSort sort = new BubbleSort();
                     sort.BubbleSorting();
+                    break;
+
+                    case 4:
+                    InsertionSort insertion = new InsertionSort();
+                    insertion.InsertionSorting();
                     break;
             }
         }
