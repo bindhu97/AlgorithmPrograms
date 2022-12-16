@@ -12,7 +12,7 @@ class Program
             Console.WriteLine("Select Option:\n" +
                 "1) Find the Anagram Detection\n" +
                 "2) Find the Binary Searching\n" +
-                "3) Find the Appending elements in LinkedList\n" +
+                "3) Find the BubbleSort\n" +
                 "4) Find the Ability to insert between number\n" +
                 "5) Find the Delete First Element\n" +
                 "6) Find the Delete Last Element\n" +
@@ -33,6 +33,11 @@ class Program
                     string UserInput = Console.ReadLine();
                     Console.WriteLine("User input is :"+UserInput);
                     binarysearch.BinarySearch(UserInput);
+                    break;
+
+                    case 3:
+                    BubbleSort sort = new BubbleSort();
+                    sort.BubbleSorting();
                     break;
             }
         }
