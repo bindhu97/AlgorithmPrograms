@@ -14,7 +14,7 @@ class Program
                 "2) Find the Binary Searching\n" +
                 "3) Find the BubbleSort\n" +
                 "4) Find the Insertion Sort\n" +
-                "5) Find the Delete First Element\n" +
+                "5) Find the Merge Sorting\n" +
                 "6) Find the Delete Last Element\n" +
                 "7) Find the Display of elements\n");
 
@@ -43,6 +43,17 @@ class Program
                     case 4:
                     InsertionSort insertion = new InsertionSort();
                     insertion.InsertionSorting();
+                    break;
+
+                    case 5:
+                    MergeSorting merge = new MergeSorting();
+                    int[] arrPass = { 55, 89, 214, 62, 150, 66, 99, 33, 11, 45 };
+                    int len = Convert.ToInt32(arrPass.Length);
+                    merge.MergeSort(arrPass, 0, len - 1);
+                    for (int i = 0; i < arrPass.Length; i++)
+                    {
+                        Console.Write(arrPass[i] + " ");
+                    }
                     break;
             }
         }
